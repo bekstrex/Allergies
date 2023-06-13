@@ -1,0 +1,15 @@
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\Allergires.csproj.AssemblyReference.cache
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\Allergires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\Allergires.AssemblyInfoInputs.cache
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\Allergires.AssemblyInfo.cs
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\Allergires.csproj.CoreCompileInputs.cache
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\net6.0\Allergires.exe
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\net6.0\Allergires.deps.json
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\net6.0\Allergires.runtimeconfig.json
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\net6.0\Allergires.dll
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\net6.0\Allergires.pdb
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\Allergires.dll
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\refint\Allergires.dll
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\Allergires.pdb
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\Allergires.genruntimeconfig.cache
+C:\Users\bekzo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\net6.0\ref\Allergires.dll
